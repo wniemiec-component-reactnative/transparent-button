@@ -1,0 +1,24 @@
+{
+  "name": "@wniemiec-component-reactnative/transparent-button",
+  "version": "1.0.0",
+  "description": "Simple button without background.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wniemiec-components-reactnative/transparent-button.git"
+  },
+  "keywords": [
+    "wniemiec",
+    "component",
+    "reactnative",
+    "transparent-button",
+    "transparent",
+    "button"
+  ],
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wniemiec-components-reactnative/transparent-button/issues"
+  },
+  "homepage": "https://github.com/wniemiec-components-reactnative/transparent-button#readme"
+}
